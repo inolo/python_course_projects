@@ -6,6 +6,7 @@ SQLite and DATABASE QUERIES in python.
 
 Sqlite: SQLite is a easy to use local database that stores as a file on your computer and you can access it like a regular database to create tables, query data, and so on. 
 
+Download the file called sqlite.db and open it in your python code. 
 
 In this project I want you to query three different phrases from a table called SECRET_CODE. 
 
