@@ -38,3 +38,7 @@ Once you can query the table send me what the success message is.
 EXTRA_BONUS:
 
 IF YOU GET SQL AND HOW IT WORKS YOU CAN GET AROUND THIS EASILY WITHOUT USING THE HASH
+
+TIPS: 
+
+The data from the query might be returned in tuple form. So you might have to index the tuple to get the data.
