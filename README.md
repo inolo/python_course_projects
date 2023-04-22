@@ -1,5 +1,7 @@
 # python_course_projects
 Project 2: 
+The solution is only about 25 lines of code and I want you to understand how to query a database and how to do it from python. So if you need help just let me know or if you give up I can give you the solution file. 
+
 
 SQLite and DATABASE QUERIES in python. 
 
