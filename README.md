@@ -20,7 +20,7 @@ First you have to connect to the database and find out how to return a result fr
 
 LEVEL 1:
 
-I want you to query the CODE in this order by CODE_NUMBER. [75,202,233]
+I want you to select the phrase from the CODE column in this order by CODE_NUMBER. [75,202,233]
 
 Get all the phrases, join them together and then send it to me what the phrase is. 
 
